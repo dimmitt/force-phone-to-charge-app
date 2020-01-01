@@ -14,4 +14,5 @@ useful links:
 <br/>https://developer.android.com/reference/android/os/BatteryManager
 <br/>https://developer.apple.com/documentation/uikit/uidevice
 
-What if it just spammed you ... "dont do it, shut your phone off as a notification message any time you unlocked your phone."
+What if it just spammed you ... 
+<br/>"dont do it, shut your phone off as a notification message any time you unlocked your phone."
