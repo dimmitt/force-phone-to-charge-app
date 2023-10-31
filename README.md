@@ -17,3 +17,5 @@ useful links:
 
 What if it just spammed you ... 
 <br/>"dont do it, shut your phone off as a notification message any time you unlocked your phone."
+
+Or you could have the app actually drain the battery by doing a ton of work 😈
