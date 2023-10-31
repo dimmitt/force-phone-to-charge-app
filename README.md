@@ -1,4 +1,4 @@
-# force-phone-to-charge-app
+# force-phone-to-charge
 
 new phone app idea
 <br/>it shuts off your phone
