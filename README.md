@@ -3,6 +3,7 @@
 new phone app idea
 <br/>it shuts off your phone
 <br/>but it does more than that
+<br/>you could say that it "bricks your phone under certain conditions"
 <br/>tricks your phone to think the battery has run out
 <br/>so you can only turn it back on by accessing a phone charger
 
